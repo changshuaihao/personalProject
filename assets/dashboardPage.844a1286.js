@@ -1,0 +1,1 @@
+import{_ as t,c as o,o as s,d as r,f as c,w as n,g as d}from"./index.a8009e4c.js";const l={};function _(f,e){const a=o("a-card");return s(),r("div",null,[c(a,{title:"\u4EEA\u8868\u76D8",size:"small",class:"my- card-wrap"},{default:n(()=>[...e[0]||(e[0]=[d(" \u4EEA\u8868\u76D8\u5185\u5BB9 ",-1)])]),_:1})])}const i=t(l,[["render",_]]);export{i as default};
